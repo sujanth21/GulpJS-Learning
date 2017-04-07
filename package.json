@@ -8,7 +8,11 @@
   },
   "author": "Sujanth",
   "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-uglify": "^2.1.2"
+  },
   "dependencies": {
-    "gulp": "^3.9.1"
+    "static-server": "^2.0.0"
   }
 }
